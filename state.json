@@ -3,11 +3,11 @@
   "username": "thsottiaux",
   "keyword": "reset",
   "userId": "1953337039510003712",
-  "sinceId": "2109819517325205735",
-  "lastCheckedAt": "2026-10-13T02:00:38.981Z",
-  "lastSuccessAt": "2026-10-13T02:00:38.981Z",
-  "lastRunStatus": "checked-0-posts",
-  "postsScanned": 56,
+  "sinceId": "2109832216029352391",
+  "lastCheckedAt": "2026-10-13T02:23:25.074Z",
+  "lastSuccessAt": "2026-10-13T02:23:25.074Z",
+  "lastRunStatus": "checked-2-posts",
+  "postsScanned": 58,
   "matches": [
     {
       "version": "b67fd59b479a6010d7bf14dcd27b877ed837898b135d1997697b6e882227239e",
@@ -257,14 +257,16 @@
     "2109812216212099456": "ca823a56be82e9b5268af58b19074f5b9beef0c85b5ef480343d9f8c60ef16c8",
     "2109812360596865224": "b67fd59b479a6010d7bf14dcd27b877ed837898b135d1997697b6e882227239e",
     "2109819027912798611": "e1ea005ab8f0971a9a2456170c9207ac582a178d91f780c912d2302f5f028960",
-    "2109819517325205735": "71626e1219c52fbdf15db616177cd84565c76027aebd3a5120b90f5d976a3ea9"
+    "2109819517325205735": "71626e1219c52fbdf15db616177cd84565c76027aebd3a5120b90f5d976a3ea9",
+    "2109831908620390553": "6361a8106e551754bf5c06e6b2d38dc9e36ed040aaefed75efe2e96f2e85dd81",
+    "2109832216029352391": "e7c85ef3f7362337b38c03147fd1646e8abea8d60cf5ecf75dadc9c767c70f02"
   },
   "latestObservedPost": {
-    "id": "2109819517325205735",
-    "canonicalId": "2109819517325205735",
-    "text": "@songkeys No worries. Cooking up a solution",
-    "createdAt": "2026-10-13T01:32:26.000Z",
-    "url": "https://x.com/thsottiaux/status/2109819517325205735",
+    "id": "2109832216029352391",
+    "canonicalId": "2109832216029352391",
+    "text": "@TimJayas I think we could ship absolutely nothing and be fine. But we will ship pretty insane things instead.",
+    "createdAt": "2026-10-13T02:22:53.000Z",
+    "url": "https://x.com/thsottiaux/status/2109832216029352391",
     "media": []
   },
   "eventParserVersion": 5
